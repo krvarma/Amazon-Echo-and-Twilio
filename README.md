@@ -168,4 +168,5 @@ Now you all set to test the sample. You can start the skill by saying "***Alexa,
 
 
 *Text Messaging*
+
 [![](http://img.youtube.com/vi/SxBr7OUr0BQ/0.jpg)](https://www.youtube.com/watch?v=SxBr7OUr0BQ)
