@@ -3,6 +3,8 @@ Sending Twilio Messages using Amazon Echo
 
 **Introduction**
 
+![enter image description here](https://raw.githubusercontent.com/krvarma/Amazon-Echo-and-Twilio/master/images/at.png)
+
 Amazon Echo and Twilio are great products. Amazon Echo is a voice command device from Amzon. It is one of the most popular voice command device. It can captures user voice and convert this into text. After recognizing the voice, it then perform NLP on the detected text. Then it uses Alexa to determine what user want to do. Alexa is a voice service that Amazon Echo uses to interact with users using voice. A third party device also can make use of this service to interact with the users.
 
 Users can define their of own voice interaction using Alexa Skills. Amazon provides Alexa Skill Kit which is a set of APIs, documentations and sample code to start with creating voice interactions. This make the Amazon Echo extensible, i.e. you can create your own skill to extend the capabilities of Echo.
@@ -161,8 +163,9 @@ Now you all set to test the sample. You can start the skill by saying "***Alexa,
 **Demo Video**
 
 *Voice Messaging*
-[![Voice Messaging](http://img.youtube.com/vi/rSSIXsAanvs/0.jpg)](https://www.youtube.com/watch?v=rSSIXsAanvs)
+
+[![](http://img.youtube.com/vi/rSSIXsAanvs/0.jpg)](https://www.youtube.com/watch?v=rSSIXsAanvs)
 
 
 *Text Messaging*
-[![Voice Messaging](http://img.youtube.com/vi/SxBr7OUr0BQ/0.jpg)](https://www.youtube.com/watch?v=SxBr7OUr0BQ)
+[![](http://img.youtube.com/vi/SxBr7OUr0BQ/0.jpg)](https://www.youtube.com/watch?v=SxBr7OUr0BQ)
