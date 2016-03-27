@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "intent": "MessageTypeIntent",
+      "slots": [
+      	{
+        	"name" : "Type",
+        	"type": "LIST_OF_MESSAGE_TYPE"
+      	}
+     ]
+    },
+	{
+      "intent": "NameIntent",
+      "slots": [
+      	{
+        	"name" : "Name",
+        	"type": "AMAZON.US_FIRST_NAME"
+      	}
+     ]
+    },
+    {
+      "intent": "PhoneIntent",
+      "slots": [
+      	{
+        	"name" : "Phone",
+        	"type": "AMAZON.NUMBER"
+      	}
+     ]
+    },
+	{
+      "intent": "MessageIntent",
+      "slots": [
+      	{
+        	"name" : "Message",
+        	"type": "AMAZON.LITERAL"
+      	}
+     ]
+    },
+	{
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}	

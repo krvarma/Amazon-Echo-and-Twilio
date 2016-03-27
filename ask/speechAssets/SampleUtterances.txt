@@ -1,0 +1,12 @@
+MessageTypeIntent Send {Type} message
+
+NameIntent Send to {Name}
+
+PhoneIntent Send to {Phone}
+
+MessageIntent {arriving|Message} using LITERAL
+MessageIntent {I am coming|Message} using LITERAL
+MessageIntent {I am on my way|Message} using LITERAL
+MessageIntent {I am coming home|Message} using LITERAL
+MessageIntent {call me when you get a chance|Message} using LITERAL
+MessageIntent {welcome to alexa and twilio messenger|Message} using LITERAL
